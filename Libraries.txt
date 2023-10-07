@@ -1,0 +1,16 @@
+Use the similar versions to avoid errors.
+ultralytics =8.0.26
+hydra-core>=1.2.0
+scipy>=1.4.1
+torch>=1.7.8
+torchvision»=0.8.1
+tadi>24.64.8
+filterpy==1.4.5
+scikit-images:0.19.3
+matplotLib>=3.2.2
+numpy2=1.18.5
+opencv-python==4.5.4.60
+PiLLow>=7.1.2
+PYYAML>=5.3.1
+requests>=2.23.0
+
